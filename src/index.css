@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.counter {
+  font-size: 1.81rem;
+  /* background-color: #B53DFF; */
+  background-color: #FBFBFF;
+  text-align: center;
+  border: 1px solid hsl(0, 0%, 80%);
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.1);
+  padding: 20px;
+  margin: 10px;
+}
+button{
+  font-size: 1.5rem;
+  background-color: #B53DFF;
+  border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.1);
+    padding: 8px;
+    margin: 10px;
+}
+.foot{
+  padding: 20px 0;
+  text-align: center;
+
+}
+.rights{
+  margin: 0;
+}
