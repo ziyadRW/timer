@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ziyadRW/timer/static/css/main.c0062488.css",
+    "main.js": "/ziyadRW/timer/static/js/main.20d5173f.js",
+    "index.html": "/ziyadRW/timer/index.html",
+    "main.c0062488.css.map": "/ziyadRW/timer/static/css/main.c0062488.css.map",
+    "main.20d5173f.js.map": "/ziyadRW/timer/static/js/main.20d5173f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0062488.css",
+    "static/js/main.20d5173f.js"
+  ]
+}
