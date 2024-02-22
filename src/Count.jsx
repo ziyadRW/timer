@@ -15,12 +15,17 @@ const Count = () => {
 
 
   return (
-    <div className='counter'>
-      <h1>{count}</h1>
-      {/* <button onClick={decrement}> Decrement</button> */}
-      <button onClick={reset}>  اعادة ضبط</button>
-      <button onClick={increment}> استغفر الله</button>
-    </div>
+    <>
+        <div className='counter' onClick={increment}>
+            <h3>وَاذْكُرْ رَبَّكَ كَثِيرًا</h3>
+        <h1>{count}</h1>
+        {/* <button onClick={decrement}> Decrement</button> */}
+        {/* <button onClick={reset}>  اعادة ضبط</button>
+        <button onClick={increment}> استغفر الله</button> */}
+        </div>
+        <button onClick={reset}>  اعادة ضبط</button>
+    </>
+    
   )
 }
 

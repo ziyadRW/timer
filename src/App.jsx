@@ -5,6 +5,7 @@ function App() {
   return (
     <div>
       <Count></Count>
+      
       <Footer></Footer>
     </div>
   );
