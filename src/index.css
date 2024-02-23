@@ -29,10 +29,13 @@ button{
   background-color: hsl(277, 100%, 62%);
   border: none;
     border-radius: 10px;
-    box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.1);
+    box-shadow: 5px 5px 5px hsla(277, 100%, 62%, 0.4);
     padding: 8px;
     margin: 10px;
     color: #FBFBFF;
+}
+button:hover{
+  background-color: hsla(277, 100%, 62%, 0.9);;
 }
 .foot{
   padding: 20px 0;
